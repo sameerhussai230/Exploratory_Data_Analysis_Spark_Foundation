@@ -5,7 +5,7 @@
 ![The Sparks Foundation](https://img.shields.io/badge/The%20Sparks%20Foundation-Task%203-brightgreen)
 
 <div align="center">
-  <img src="https://github.com/sameerhussai230/Exploratory_Data_Analysis_Spark_Foundation/raw/main/EDA_Visuals.gif" alt="EDA Visuals" width="800">
+  <img src="https://github.com/sameerhussai230/Exploratory_Data_Analysis_Spark_Foundation/raw/main/EDA_Visual.gif" alt="EDA Visuals" width="800">
 </div>
 
 ## 📝 Project Overview
