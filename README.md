@@ -4,6 +4,7 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-EDA-orange)
 ![The Sparks Foundation](https://img.shields.io/badge/The%20Sparks%20Foundation-Task%203-brightgreen)
 
+## 📈 Visual Overview
 <div align="center">
   <img src="https://github.com/sameerhussai230/Exploratory_Data_Analysis_Spark_Foundation/raw/main/EDA_Visual.gif" alt="EDA Visuals" width="800">
 </div>
